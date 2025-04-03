@@ -1,6 +1,6 @@
 import tkinter as tk
 from Gauss_Jordan import GaussJordanApp
-from Newton_Raphson import NewtonRaphsonApp  # Asegúrate de tener esta clase implementada
+from Newton_Raphson import NewtonRaphsonApp  
 
 def open_gauss_jordan():
     gauss_root = tk.Toplevel()
